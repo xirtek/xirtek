@@ -8,4 +8,4 @@ A little about me...
 -   💻 Currently, I'm working in coding self projects for my portfolio.
 -   🧐 Interested in the latest news about technology and astronomy.
 -   🌱 I’m currently learning front end development with React, best programming practices and english. 
--   💖 I like to watch streams on twitch, animea and play videogames.
+-   💖 I like to watch streams on twitch, anime and play videogames.
