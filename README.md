@@ -7,7 +7,7 @@ A little about me...
 -   🎓 I'm Computer Engineering graduated from [Duoc Uc Viña del Mar](https://www.duoc.cl/).
 -   💻 Currently, I'm working in coding self projects for my portfolio.
 -   🧐 Interested in the latest news about technology and astronomy.
--   🌱 I’m currently learning python, best programming practices and english. 
+-   🌱 I’m currently learning backend, best programming practices and english. 
 -   💖 I like to watch streams on twitch, anime and play videogames.
 
 ## Technologies
